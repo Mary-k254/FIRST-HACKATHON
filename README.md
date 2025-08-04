@@ -4,7 +4,7 @@ Welcome to my hackathon portfolio! This is a simple and elegant personal website
 
 ##  Live Demo
 
-> [Visit the portfolio](https://your-username.github.io/your-repo-name/)  
+> https://mary-k254.github.io/FIRST-HACKATHON/
 
 
 ## Features
@@ -22,7 +22,7 @@ Welcome to my hackathon portfolio! This is a simple and elegant personal website
 
 - HTML5  
 - CSS3 
-- [**GitHub Pages**](https://pages.github.com/) *(for hosting)*
+- GitHub Pages](https://pages.github.com/) (for hosting)
 
 
 ##  How to Use
